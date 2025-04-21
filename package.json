@@ -1,0 +1,26 @@
+{
+  "name": "resume-app",
+  "version": "1.0.0",
+  "description": "A simple web resume for SiLabs posting.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josh-Labs/resume-app.git"
+  },
+  "keywords": [
+    "resume",
+    "devops.silabs"
+  ],
+  "author": "Joshua Murphy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josh-Labs/resume-app/issues"
+  },
+  "homepage": "https://github.com/Josh-Labs/resume-app#readme",
+  "dependencies": {
+    "react": "^19.1.0"
+  }
+}
